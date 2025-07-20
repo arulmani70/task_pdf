@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486164113911",
+    "project_id": "task-pdf",
+    "storage_bucket": "task-pdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486164113911:android:7db0a3e85e69ba1f0a66f2",
+        "android_client_info": {
+          "package_name": "com.example.task_pdf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwcL7Rd_mDvxvR78_bgPB0tHfv4nTzFCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
