@@ -38,7 +38,6 @@ class HomePageTablet extends StatelessWidget {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  /// Upload Section
                   Container(
                     padding: const EdgeInsets.all(20),
                     decoration: BoxDecoration(
@@ -86,7 +85,6 @@ class HomePageTablet extends StatelessWidget {
                   ),
                   const SizedBox(height: 30),
 
-                  /// File List Section
                   const Text(
                     "Uploaded Files",
                     style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
