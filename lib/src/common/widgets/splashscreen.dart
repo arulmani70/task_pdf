@@ -70,7 +70,7 @@ class _SplashScreenState extends State<SplashScreen>
             ),
             const SizedBox(height: 24),
             const Text(
-              "Vaultify",
+              "Welcome",
               style: TextStyle(
                 fontSize: 28,
                 fontWeight: FontWeight.w700,
